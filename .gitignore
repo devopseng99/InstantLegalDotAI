@@ -46,3 +46,9 @@ ENV/
 Thumbs.db
 *.pdf 
 .venv
+
+node_modules
+package-lock.json
+package.json
+tmp/
+
